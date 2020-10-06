@@ -1,0 +1,12 @@
+{
+    "defaultLocale": "ar-YE",
+    "locales": [
+        "ar-YE"
+    ],
+    "localePath": "i18n",
+    "generatedPath": "lib/generated",
+    "ltr": [],
+    "rtl": [
+        "ar-YE"
+    ]
+}
